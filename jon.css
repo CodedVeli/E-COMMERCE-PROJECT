@@ -1,0 +1,11 @@
+.container{
+    display:flex;
+}
+.sidebar{
+    width: 20%;
+    background-color: beige;
+}
+.content{
+    width: 80%;
+    background-color: aliceblue;
+}
